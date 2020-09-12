@@ -1,0 +1,11 @@
+{
+  "name": "ryantube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube with Vanilla and NodeJS",
+  "main": "index.js",
+  "author": "Ryan Son",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
